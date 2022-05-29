@@ -24,4 +24,3 @@ También en la sección de contacto puede identificarte rápidamente como un usu
 
 ![imagen](https://res.cloudinary.com/drbotbbjb/image/upload/v1653815515/Screenshot_120_zthpf0.png)
 
-![imagen]()

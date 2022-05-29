@@ -2,7 +2,7 @@
 
 En este sitio puedes cambiar el diseño dinámicamente con los botones del lado izquierdo el cual cambiara la temática de la página, tiene varios enlaces de navegación como **_contacto_** o _**reloj**_.
 
-También tiene un **carrusel de imágenes** en inicio de la página.
+También tiene un **carrusel de imágenes** en el inicio de la pagina.
 
 Ábralo preferiblemente en un servidor desde **visual studio code **para mejor que se muestre de la mejor manera
 

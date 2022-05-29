@@ -1,0 +1,23 @@
+body{
+    background: url('../img/hulk.jpg');
+    background-attachment: fixed;
+}
+
+
+#logo{
+  
+    background: #658524;
+
+}
+
+#menu ul li:hover{
+    background:#658524;
+}
+
+.button-more{
+
+    background:#658524;
+
+    
+}
+

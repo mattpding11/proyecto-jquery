@@ -1,0 +1,27 @@
+body{
+    background: url('../img/thor.jpg');
+    background-attachment: fixed;
+}
+
+
+#logo{
+  
+    background: #04335c;
+
+}
+
+#menu ul li:hover{
+    background:#04335c;
+}
+
+.button-more{
+
+    background:#04335c;
+
+    
+}
+
+form input[type="submit"]{
+    color: #04335c;  
+
+}
